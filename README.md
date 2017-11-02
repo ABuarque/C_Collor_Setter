@@ -15,3 +15,9 @@ It's an C API that helps you to change console text color.
   + setConsoleColor(collection->COLLOR_RED);
 + Setting console text collor to cyan:
   + setConsoleColor(collection->COLLOR_CYAN);
+
+# Sample and snapshots
+Inside this repository you can find a sample that shows how to use this API. Below is some snapshot of a program using it.
+![img](https://user-images.githubusercontent.com/17463488/32355269-7575ddf4-c00c-11e7-810a-971743de44ef.png)
+![img1](https://user-images.githubusercontent.com/17463488/32355270-75a66316-c00c-11e7-8035-0fad1a5bd901.png)
+
